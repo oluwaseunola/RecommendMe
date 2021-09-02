@@ -1,0 +1,6 @@
+framework module Pods_RecommendMe {
+  umbrella header "Pods-RecommendMe-umbrella.h"
+
+  export *
+  module * { export * }
+}
